@@ -1,4 +1,4 @@
-package basic.c00_helloworld;
+package HelloWorld;
 
 /*
 Clase 14 - Ejercicios: Primeros pasos
